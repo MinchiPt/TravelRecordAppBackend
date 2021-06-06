@@ -15,3 +15,4 @@ table.update(function (context) {
 table.delete(function (context) {
     return context.execute();
 });
+//
