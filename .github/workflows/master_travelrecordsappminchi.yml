@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'travelrecordsappminchi'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fc9309a39c4048e8b142b80658dab4b1 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ca159a6f8ed349eda09aa2cb91d20bcf }}
         package: .
